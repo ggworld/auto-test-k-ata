@@ -1,3 +1,4 @@
+#todo: on multiple recording need to sleep till all playing is being played 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
